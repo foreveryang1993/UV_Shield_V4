@@ -10,7 +10,7 @@ The PCBA contains a MCU(STM32F072) and 2 UV sensors(Si1145 and VEML6070). The fi
   
   
   
-<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Assembly.JPG" width="200" height="200" alt="Assembly"/><br/>
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Assembly.JPG" width="600" height="293" alt="Assembly"/><br/>
   
   
 <img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/UV%20Shield%20V4_Top.jpg" width="200" height="200" alt="UV Shield V4_Top"/><br/>
