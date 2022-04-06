@@ -8,23 +8,21 @@ Users just have to connect UV Shield V4 to a smartphone via an USB type-c cable 
   
 The PCBA contains a MCU(STM32F072) and 2 UV sensors(Si1145 and VEML6070). The firmware of the MCU is programed in C.
   
-  <img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Assembly.JPG" width="800" height="391"/><br/>
-  
-![](https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Assembly.JPG)
-  
-    
-![](https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/UV%20Shield%20V4_Top.jpg)
   
   
-![](https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/UV%20Shield%20V4_Bottom.jpg)
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Assembly.JPG" width="200" height="200" alt="Assembly"/><br/>
+  
+  
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/UV%20Shield%20V4_Top.jpg" width="200" height="200" alt="UV Shield V4_Top"/><br/>
+  
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/UV%20Shield%20V4_Bottom.jpg" width="200" height="200" alt="UV Shield V4_Bottom"/><br/>
   
   
 ## Block Diagram
-![](https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Block%20Diagram.png)
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Block%20Diagram.png" width="200" height="200" alt="Block Diagram"/><br/>
   
   
 ## Screenshots
   
   
-
-![](https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Screenshot.png)
+<img src="https://github.com/foreveryang1993/UV_Shield_V4/blob/main/Readme/Screenshot.png" width="200" height="200" alt="Screenshot"/><br/>
